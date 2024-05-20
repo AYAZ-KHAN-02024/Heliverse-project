@@ -6,7 +6,7 @@ A modern, fully responsive UI website built with Vite, React, Tailwind CSS, and 
 
 ## Demo
 
-Check out the live demo of the project [here](#).
+Check out the live demo of the project [live link](https://ayaz-heliverse-project.netlify.app/).
 
 ## Features
 
